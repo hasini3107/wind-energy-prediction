@@ -64,3 +64,6 @@ Main file:
 ```bash
 git clone https://github.com/hasini3107/wind-energy-prediction.git
 cd wind-energy-prediction
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasini%20Unnamatla-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hasini-unnamatla-365995334/)
